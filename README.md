@@ -35,3 +35,5 @@ Tips and Tricks
 Solve one problem at the time. Maybe create and style the HTML and CSS first, then just make a user able to guess six times. Then add detection for correct guesses. Then add highlighting in green correct letters. Then add gray for definitely wrong letters. Then do yellow for close.
 I didn't show you all the JavaScript methods you're going to need to do this. You will need to Google things. Learning how to answer your own questions is perhaps the most useful you'll learn in this course.
 I added some animations, you don't have to. It was just for fun.
+  
+See how works in https://hectorgbravo.github.io/Word-Masters/
